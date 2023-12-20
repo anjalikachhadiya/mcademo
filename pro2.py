@@ -1,6 +1,6 @@
 #factorial number
 
-n = int (input (“Enter a number: “))
+n = int(input(“Enter a number: “))
 factorial = 1
 if n >= 1:
 for i in range (1, n+1):
